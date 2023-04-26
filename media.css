@@ -1,0 +1,13 @@
+
+@media (min-width: 576px) {
+    .menu a {
+        font-size: 25px!important;
+    }
+    .menu {
+        width: 90% !important;
+    }
+    .menuBlock p {
+        font-size: 30px!important;
+     }
+}
+
